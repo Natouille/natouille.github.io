@@ -4,5 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-this is me again and again
-![tatoo-final.jpg](/uploads/tatoo-final.jpg)
+This is my first tatoo!
+
+[tatoo-final.jpg](/uploads/tatoo-final.jpg)
+
