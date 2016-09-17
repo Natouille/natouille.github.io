@@ -1,9 +1,8 @@
 ---
 title: About
-permalink: /about/
+permalink: "/about/"
 layout: page
 ---
-
 
 This is my first tatoo!
 
