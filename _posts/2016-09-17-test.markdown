@@ -1,6 +1,7 @@
 ---
+title: Test
+date: 2016-09-17 00:00:00 Z
 layout: post
-title:  Test
 description: Ici une super description pour les moteurs de recherche
 ---
 
