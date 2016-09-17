@@ -6,5 +6,5 @@ layout: page
 
 This is my first tatoo!
 
-[tatoo-final.jpg](/uploads/tatoo-final.jpg)
+![tatoo-final.jpg](/uploads/tatoo-final.jpg)
 
