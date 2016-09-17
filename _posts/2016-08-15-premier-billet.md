@@ -9,4 +9,4 @@ Blah Blah BLah
 
 ## Conclusion
 
-C'est sur.
+C'est sûr.
