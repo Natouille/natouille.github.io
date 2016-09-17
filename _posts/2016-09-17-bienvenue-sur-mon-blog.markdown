@@ -1,9 +1,8 @@
 ---
 title: Bienvenue sur mon blog
-date: 2016-09-17T12:59:40.000Z
+date: 2016-09-17 12:59:40 Z
 layout: post
 ---
-
 
 * Lorem ipsum dolor sit amet, [consectetur adipisicing elit](https://sudweb.fr), sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
