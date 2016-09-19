@@ -3,7 +3,7 @@ title: Le blog de Natouille
 timezone: UTC
 collections:
   posts:
-    title: Posts
+    title: Billets
     output: true
   uploads:
     title: Uploads
